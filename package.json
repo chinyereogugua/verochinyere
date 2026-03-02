@@ -1,0 +1,24 @@
+{
+  "name": "secondgitup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinyereogugua/verochinyere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chinyereogugua/verochinyere/issues"
+  },
+  "homepage": "https://github.com/chinyereogugua/verochinyere#readme",
+  "dependencies": {
+    "joi": "^18.0.2"
+  }
+}
