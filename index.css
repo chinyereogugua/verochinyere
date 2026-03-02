@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+p{
+    color: white;
+    background-color: saddlebrown;
+    font-size: 10px;
+}
+h1{
+    color: blue;
+    background-color: white;
+}
+h2{
+    color: red;
+    background-color: lavenderblush;
+}
+h3{
+    color: white;
+    background-color: hotpink;
+}
